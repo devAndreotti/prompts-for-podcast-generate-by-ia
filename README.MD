@@ -1,99 +1,115 @@
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
-</p>
+# 🎙️ Podcast Gerado por I.A - Segurança Digital
 
 <p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/prompts-for-podcast-generate-by-ia?color=FFF&labelColor=4596c7&style=flat-square">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/prompts-for-podcast-generate-by-ia?color=FFF&labelColor=8671a8&style=flat-square">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/prompts-for-podcast-generate-by-ia?color=FFF&labelColor=2f325a&style=flat-square">
 </p>
+
+<div align="center">
+  <img src="assets/banner.webp" width="600" alt="Capa do Podcast">
+</div>
+
+<br>
 
 <p align="center">
-    preview do podcast
+🎧 <b>Preview do Episódio:</b>
 </p>
 
-<p align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</p>
-
-# Projeto Podcast Gerado por I.A.s
-
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
-
-## 💻 Tecnologias utilizadas no projeto
-
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
-
-## ✨ Como foi feito ?
-
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
-
-## 📚 Materiais
-
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+<div align="center">
+  <audio src="output/podcast_editado.mp3" controls title="Podcast editado"></audio>
+</div>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+## 📋 Sobre o Projeto
+
+O **Podcast Gerado por I.A. - Segurança Digital** é um projeto desenvolvido a partir de uma atividade da [DIO](https://dio.me), baseado em um fork de um repositório original. O objetivo é **explorar o uso de Inteligência Artificial em todas as etapas de criação de um podcast**, desde o roteiro até a edição final do áudio. O episódio aborda conceitos fundamentais de **segurança digital**, apresentados de forma acessível, com **exemplos práticos** e uma **abordagem didática e informativa**.
+
+---
+
+## 🧠 Temas Abordados
+
+| Tema                                      | Descrição                                            |
+| :---------------------------------------- | :--------------------------------------------------- |
+| 🔐 **VPNs (Redes Privadas Virtuais)**     | Proteção de dados e navegação anônima.               |
+| 🔑 **Gerenciadores de Senhas**            | Armazenamento seguro e automatizado de credenciais.  |
+| 🧩 **Autenticação de Dois Fatores (2FA)** | Camada adicional de segurança para acessos.          |
+| 💻 **Protocolos e Endereços MAC**         | Fundamentos de rede e identificação de dispositivos. |
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* 🤖 **[ChatGPT](https://chat.openai.com/)** – Criação do roteiro, prompts e estrutura base do conteúdo.
+* 🗂️ **[NotebookLM](https://notebooklm.google.com/)** – Síntese, resumo e aprimoramento narrativo.
+* 🎨 **[Ideogram](https://ideogram.ai/)** – Criação da imagem de capa do episódio.
+* 🎧 **[CapCut](https://www.capcut.com/pt-br/)** – Edição de áudio, mixagem e inserção de trilha sonora.
+
+---
+
+## 🚀 Como Reproduzir o Projeto
+
+Siga o fluxo abaixo para criar seu próprio **podcast automatizado com IA**:
+
+```markdown
+1️⃣ Gere o roteiro no ChatGPT com prompts personalizados.  
+2️⃣ Use o NotebookLM para sintetizar e transformar textos em narração.  
+3️⃣ Crie a arte da capa no Ideogram com base no tema do episódio.  
+4️⃣ Edite e finalize o áudio no CapCut, adicionando trilhas e efeitos.  
+```
+
+---
+
+## 🌟 Resultados
+
+O projeto demonstra o potencial das IAs generativas aplicadas à **produção de conteúdo multimídia**, unindo criatividade, automação e acessibilidade tecnológica.
+
+Além de funcionar como um estudo prático de integração entre ferramentas, ele mostra como um único criador pode construir um produto de mídia completo utilizando apenas recursos digitais inteligentes.
+
+---
+
+## 📂 Estrutura do Projeto
+
+```bash
+prompts-for-podcast-generate-by-ia/
+├─ assets/
+│  ├─ banner.webp
+│  └─ github.txt
+├─ output/
+│  └─ podcast_editado.mp3
+├─ src/
+│  └─ prompts/
+│     ├─ chatgpt.md
+│     ├─ ideogram.md
+│     └─ notebooklm.md
+├─ .gitignore
+└─ README.MD
+```
+
+---
+
+## 💪 Como Contribuir
+
+Contribuições são bem-vindas!
+Para sugerir melhorias, siga os passos abaixo:
+
+1. Faça um fork deste repositório
+2. Crie uma branch: `git checkout -b feature/sua-feature`
+3. Commit suas alterações: `git commit -m "feat: minha melhoria"`
+4. Faça o push: `git push origin feature/sua-feature`
+5. Abra um Pull Request descrevendo suas alterações
+
+---
+
+## 📝 Licença
+Este projeto está sob a licença MIT.
+Consulte o arquivo [LICENSE](https://github.com/devAndreotti/devAndreotti/blob/main/LICENSE) para mais detalhes.
+
+<br>
+
+---
+
+<p align="center">
+  Desenvolvido com ☕ por <a href="https://github.com/devAndreotti">Ricardo Andreotti Gonçalves</a> 🧑‍💻
+</p>
