@@ -1,23 +1,12 @@
 # 🎙️ Podcast Gerado por I.A - Segurança Digital
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/prompts-for-podcast-generate-by-ia?color=FFF&labelColor=4596c7&style=flat-square">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/prompts-for-podcast-generate-by-ia?color=FFF&labelColor=8671a8&style=flat-square">
   <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/prompts-for-podcast-generate-by-ia?color=FFF&labelColor=2f325a&style=flat-square">
 </p>
 
 <div align="center">
   <img src="assets/banner.webp" width="600" alt="Capa do Podcast">
-</div>
-
-<br>
-
-<p align="center">
-🎧 <b>Preview do Episódio:</b>
-</p>
-
-<div align="center">
-  <audio src="output/podcast_editado.mp3" controls title="Podcast editado"></audio>
 </div>
 
 ---
@@ -33,8 +22,8 @@ O **Podcast Gerado por I.A. - Segurança Digital** é um projeto desenvolvido a 
 | Tema                                      | Descrição                                            |
 | :---------------------------------------- | :--------------------------------------------------- |
 | 🔐 **VPNs (Redes Privadas Virtuais)**     | Proteção de dados e navegação anônima.               |
-| 🔑 **Gerenciadores de Senhas**            | Armazenamento seguro e automatizado de credenciais.  |
-| 🧩 **Autenticação de Dois Fatores (2FA)** | Camada adicional de segurança para acessos.          |
+| 🔑 **Gerenciadores de Senhas**            | Armazenamento seguro e automatizado.  |
+| 🧩 **Autenticação Dupla (2FA)** | Camada adicional de segurança para acessos.          |
 | 💻 **Protocolos e Endereços MAC**         | Fundamentos de rede e identificação de dispositivos. |
 
 ---
@@ -54,9 +43,10 @@ Siga o fluxo abaixo para criar seu próprio **podcast automatizado com IA**:
 
 ```markdown
 1️⃣ Gere o roteiro no ChatGPT com prompts personalizados.  
-2️⃣ Use o NotebookLM para sintetizar e transformar textos em narração.  
-3️⃣ Crie a arte da capa no Ideogram com base no tema do episódio.  
-4️⃣ Edite e finalize o áudio no CapCut, adicionando trilhas e efeitos.  
+2️⃣ Busque artigos e notícias sobre os temas para serem carregados no NotebookLM.  
+3️⃣ Use o NotebookLM para sintetizar e transformar textos em narração.  
+4️⃣ Crie a arte da capa no Ideogram com base no tema do episódio.  
+5️⃣ Edite e finalize o áudio no CapCut, adicionando trilhas e efeitos.    
 ```
 
 ---
